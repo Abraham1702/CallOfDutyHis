@@ -1,0 +1,101 @@
+body{
+  background: Orange;
+}
+
+.Titulo{
+  width: 1313px;
+  height: 80px;
+  background: Purple;
+  float: left;
+    margin-left: -50px;
+  }
+  h2{
+    Color: Black;
+    font-style:normal;
+text-align:center;
+font-size: 25;
+margin-top: 30px;
+  }
+.Video{
+  width: 350px;
+  height: 200px;
+  background: Orange;
+  position:absolute;
+  margin-top: 200px;
+  margin-left: 1px;
+  }
+  .p{
+    color: red;
+    font-style: italic;
+    text-align:center;
+  }
+  p{
+    margin-top: 0px;
+    margin-left: 1px;
+  }
+  .Imagen {
+    width: 1249px;
+    height: 100px;
+    background: Orange;
+    float: left;
+      margin-top: 15px;
+      margin-left: 0px;
+  }
+  .Imagen img{
+    width: 500px;
+    height: 80px;
+    text-align:center;
+    margin-top: 5px;
+    margin-left: 395px;
+
+  }
+  .His{
+    width: 895px;
+    height: 300px;
+    background:  Orange;
+    float: left;
+      margin-top: 30px;
+      margin-left: 360px;
+  }
+  p{
+    color:Black;
+    font-style:normal;
+    text-align:center;
+  }
+.Cronologia{
+  width: 1258px;
+  height: 1900px;
+  background:  Orange;
+  float: left;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+  }
+  .h2{
+    color: Purple;
+  }
+.creadores{
+        width: 1259px;
+        height: 220px;
+        background: Orange;
+        float: left;
+        margin-top: 0px;
+        margin-right: 300px;
+      }
+.h2{
+  color:Purple;
+  font-style:oblique;
+  text-align:center;
+  font-size: 15px;
+}
+.Desarrolladora img{
+  width: 200px;
+  height: 100px;
+  background: black;
+  font-style: italic;
+  float:left;
+  text-align: center;
+  font-size: 5px;
+  margin-top: 10px;
+  margin-left: 170px;
+}
